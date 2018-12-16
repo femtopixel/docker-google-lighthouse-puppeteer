@@ -1,6 +1,6 @@
-VERSION ?= v4.0.0-alpha.2-3.2.1-v1.11.0-0.4.0
+VERSION ?= v4.0.0-alpha.2-3.2.1-v1.11.0-0.4.1
 CACHE ?= --no-cache=1
-FULLVERSION ?= v4.0.0-alpha.2-3.2.1-v1.11.0-0.4.0
+FULLVERSION ?= v4.0.0-alpha.2-3.2.1-v1.11.0-0.4.1
 archs ?= amd64 i386 arm32v7
 .PHONY: docker build-docker publish-docker latest
 docker: build-docker publish-docker
