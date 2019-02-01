@@ -1,6 +1,6 @@
 FROM femtopixel/google-lighthouse:v4.1.0
 
-ARG VERSION=v1.11.0
+ARG VERSION=v1.12.0
 LABEL maintainer="Jay MOULIN <jaymoulin@gmail.com> <https://twitter.com/MoulinJay>"
 LABEL version="${VERSION}"
 
