@@ -1,6 +1,6 @@
-VERSION ?= v4.3.1-v1.13.0-0.5.1
+VERSION ?= v4.3.1
 CACHE ?= --no-cache=1
-FULLVERSION ?= v4.3.1-v1.13.0-0.5.1
+FULLVERSION ?= v4.3.1
 archs ?= amd64 arm32v7
 .PHONY: docker build-docker publish-docker latest
 docker: build-docker publish-docker
