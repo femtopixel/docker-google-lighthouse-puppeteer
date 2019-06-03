@@ -16,6 +16,6 @@ script:
 deploy:
     provider: script
     script:
-        - make publish-docker latest
+        - make publish-docker
     on:
         branch: master
