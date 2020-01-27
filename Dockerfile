@@ -1,6 +1,6 @@
 FROM femtopixel/google-lighthouse:v5.6.0
 
-ARG VERSION=v5.6.0-v2.0.0-0.5.3
+ARG VERSION=v2.1.0
 LABEL maintainer="Jay MOULIN <jay@femtopixel.com> <https://twitter.com/MoulinJay>"
 LABEL version="${VERSION}"
 
