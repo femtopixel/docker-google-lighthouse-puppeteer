@@ -1,7 +1,7 @@
 FROM femtopixel/google-lighthouse:v5.6.0
 
 ARG VERSION=v2.1.1
-LABEL maintainer="Jay MOULIN <jay@femtopixel.com> <https://twitter.com/MoulinJay>"
+LABEL maintainer="Jay MOULIN <https://jaymoulin.me/femtopixel/docker-google-lighthouse-puppeteer> <https://twitter.com/MoulinJay>"
 LABEL version="${VERSION}"
 
 #https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md
