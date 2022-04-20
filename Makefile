@@ -1,4 +1,4 @@
-VERSION ?= v9.5.0-v13.5.2-1.3.3
+VERSION ?= v9.5.0-v13.6.0-1.3.3
 CACHE ?= --no-cache=1
 .PHONY: docker build-docker publish-docker
 docker: build-docker publish-docker
