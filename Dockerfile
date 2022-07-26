@@ -1,4 +1,4 @@
-FROM femtopixel/google-lighthouse:v9.6.3
+FROM femtopixel/google-lighthouse:v9.6.4
 
 ARG VERSION=v5.2.1
 LABEL maintainer="Jay MOULIN <https://jaymoulin.me/femtopixel/docker-google-lighthouse-puppeteer> <https://twitter.com/MoulinJay>"
