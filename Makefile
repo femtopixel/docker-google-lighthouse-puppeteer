@@ -1,4 +1,4 @@
-VERSION ?= v11.3.0-puppeteer-v21.5.1-1.3.3
+VERSION ?= v11.3.0-puppeteer-v21.5.2-1.3.3
 CACHE ?= --no-cache=1
 .PHONY: docker build-docker publish-docker
 docker: build-docker publish-docker
